@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.voaaguia.ApiIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 318.4 s -- in com.voaaguia.ApiIntegrationTest
